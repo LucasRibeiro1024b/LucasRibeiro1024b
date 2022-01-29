@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **LucasRibeiro1024b/LucasRibeiro1024b** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,7 +12,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-[![Lucas's GitHub stats](https://github-readme-stats.vercel.app/api?username=lucasribeiro1024b&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
-
-![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=lucasribeiro1024b)
