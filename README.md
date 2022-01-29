@@ -1,5 +1,4 @@
-# Lucas Ribeiro here! 👌
-
+# Ribeiro here! 👌
 ---
 
 - 🔭 I’m currently working as a WEB Developer Intern at Egali - Intercambio
