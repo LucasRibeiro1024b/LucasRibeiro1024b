@@ -1,5 +1,9 @@
-<img src="img/cover.jpg" />
+<h4 align="center">
+  <img src="img/cover.jpg" />
 
+  [![Instagram Badge](https://img.shields.io/badge/-instagram-red?style=for-the-badge&logo=instagram&logoColor=white&link=https://github.com/lucasribeiro1024b)](https://www.instagram.com/lucasribeiro1024b/)
+  [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://github.com/lucasribeiro1024b)](https://www.linkedin.com/in/lucasribeiro1024b/)
+</h4>
 
 # Ribeiro here! 👌
 ---
