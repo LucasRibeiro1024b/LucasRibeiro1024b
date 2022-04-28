@@ -1,3 +1,6 @@
+<img src="img/cover.jpg" />
+
+
 # Ribeiro here! 👌
 ---
 
