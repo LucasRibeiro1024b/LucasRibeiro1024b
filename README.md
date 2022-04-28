@@ -1,7 +1,7 @@
 <h4 align="center">
   <img src="img/cover.jpg" />
   <hr>
-  
+
   [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://github.com/arthurspk)](https://www.linkedin.com/in/arthurspk/)
 
 </h4>
@@ -12,5 +12,13 @@
   <br>
 </h3>
 
----
+```
   Description soon...
+```
+
+## > Technologies I'm studying
+  Languages badges soon..
+## > Technologies I'm working with
+  Languages badges soon..
+## > Some random facts about me
+  Bulleted list soon...
