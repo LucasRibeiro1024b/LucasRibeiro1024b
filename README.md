@@ -13,12 +13,12 @@
 </h3>
 
 ```
-  Description soon...
+  Description coming soon...
 ```
 
 ## > Technologies I'm studying
-  Languages badges soon..
+  Languages badges coming soon..
 ## > Technologies I'm working with
-  Languages badges soon..
+  Languages badges coming soon..
 ## > Some random facts about me
-  Bulleted list soon...
+  Bulleted list coming soon...
