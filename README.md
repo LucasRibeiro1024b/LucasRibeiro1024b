@@ -16,8 +16,6 @@
   Description coming soon...
 ```
 
-## > Technologies I'm studying
-  Languages badges coming soon..
 ## > Technologies I'm working with
   Languages badges coming soon..
 ## > Some random facts about me
