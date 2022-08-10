@@ -17,6 +17,6 @@
 ```
 
 ## > Technologies I'm working with
-  Languages badges coming soon..
+  Currently working with PHP, HTML, CSS and Javascript.
 ## > Some random facts about me
   Bulleted list coming soon...
