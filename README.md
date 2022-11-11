@@ -1,3 +1,5 @@
+![](https://giphy.com/gifs/computador-gu-tecnology-bGgsc5mWoryfgKBx1u?utm_source=media-link&utm_medium=landing&utm_campaign=Media%20Links&utm_term=)
+
 <h4 align="center">
   <!--<img src="img/cover.jpg" />-->
   <hr>
