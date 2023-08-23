@@ -6,7 +6,7 @@ Web Developer | UI/UX Designer | Programmer
 
 * 🌍  I'm based in Brazil
 * ✉️  You can contact me at [lucasribeiro1024b@gmail.com](mailto:lucasribeiro1024b@gmail.com)
-* 🧠  I'm learning .NET and Database Modelling.
+* 🧠  I'm learning .NET and Java for web development.
 * ⚡  I learnt english by myself and I'm learning/practicing Spanish and Russian.
 
 ### Major Skills
